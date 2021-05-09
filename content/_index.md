@@ -1,5 +1,5 @@
 ---
-title: 'don.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'don.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 don.com is under construction."
 ---
 
